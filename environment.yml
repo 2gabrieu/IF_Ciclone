@@ -11,6 +11,12 @@ dependencies:
   - numpy-base=1.19.1=py38ha3acd2a_0
   - python=3.8.5=he1778fa_0
   - widgetsnbextension=3.5.1=py38_0
+  - conda=4.8.3=py38_0
+  - conda-build=3.18.11=py38_1
+  - conda-env=2.6.0=1
+  - conda-package-handling=1.6.1=py38h62dcd97_0
+  - conda-verify=3.4.2=py_1
+  - pip=20.1.1=py38_1
   - pip:
     - bqplot==0.11.0
     - matplotlib==3.3.0
